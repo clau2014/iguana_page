@@ -1,0 +1,122 @@
+body {
+    text-align: center;
+    color: white;
+    background: #000000;
+    margin: 0;
+    font-family: 'Raleway', sans-serif;
+}
+
+body * {
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+h1 {
+    font-weight: 500;
+    font-size: 4em;  
+}
+
+h2 {
+    font-weight: 400;
+    font-size: 2.6em;
+    padding: 1.8em;
+    padding-bottom: 1em;
+}
+
+h3 {
+    font: normal normal 300 25px/30px Raleway;
+    padding: 1em;
+    margin-bottom: 1em;
+    
+}
+
+h4 {
+    font: normal normal 300 20px/24px Raleway;
+    padding: 2em;
+}
+
+p {
+    font-weight: 300;
+    font-size: 1em;
+}
+
+.titulo {
+    text-align: center;
+    background-color: black;
+    white-space: nowrap;
+    
+}
+
+.iguana-full img {
+    width: 100vw;
+    
+}
+
+.fondo-black {
+    background: #000000;
+    padding: 2.5em 6em;
+    margin-left: 8em;
+}
+
+.iguana-verde {
+    width: 28vw;
+}
+
+.izquierda {
+     text-align: justify;
+     position: relative;
+     padding: 6em 1em;
+     width: 29vw;
+ }
+
+.centrado {
+    display: flex;
+    
+}
+
+.derecha {
+    padding: 2em 8em;
+    position: relative;
+    width: auto;
+}
+
+.fondo-cafe {
+    background: #1E1A13;
+    opacity: 98%;
+}
+
+.caracteristicas {
+    padding: 2em 4em;
+    display: inline-block;
+}
+
+.fondo-oscuro {
+    background: #000000;
+    padding: 4.5em;
+    opacity: 96%;
+}
+
+
+.imagenes {
+    display: inline-block;
+}
+
+.imagen {
+    display: inline-block;
+}
+
+.imagen img {
+    width: 90vw;
+    margin: 0.4em;
+    top: 1561px;
+    left: 150px;
+    width: 316px;
+    height: 202px;
+}
+
+
+.fondo-plomo {
+    background: #1E1A13;
+    opacity: 94%;
+}
